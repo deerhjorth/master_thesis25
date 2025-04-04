@@ -4,3 +4,7 @@ matplotlib
 requests
 gdown
 psycopg2
+spacy
+gensim
+nltk
+tqdm
