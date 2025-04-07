@@ -8,3 +8,5 @@ spacy
 gensim
 nltk
 tqdm
+bertopic 
+sentence-transformers
