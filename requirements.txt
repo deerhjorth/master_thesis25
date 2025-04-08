@@ -10,3 +10,4 @@ nltk
 tqdm
 bertopic 
 sentence-transformers
+scikit-learn
