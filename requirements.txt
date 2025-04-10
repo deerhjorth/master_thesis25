@@ -11,3 +11,4 @@ tqdm
 bertopic 
 sentence-transformers
 scikit-learn
+vaderSentiment
