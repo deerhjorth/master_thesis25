@@ -28,9 +28,10 @@ This project explores how lobbying activities influence political sentiment in U
 1. Clone the repository:
 
    git clone https://github.com/deerhjorth/master_thesis25.git
+   
    cd master_thesis25
 
-2. Install dependencies (Python 3.x required):
+2. Install dependencies:
 
    pip install -r requirements.txt
 
